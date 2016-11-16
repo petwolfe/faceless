@@ -33,7 +33,7 @@
 
 .NOTES
     Date      	Who     Changes
-    03/30/2016  INYDNN	Initial drop
+    
 	
 param(   
 	[Parameter(Position=0)]    [string] $ConfigFile = "C:\Projects\EIM-AWB\Scripts\Bin\AlteryxPerfTestConfig.xml"
